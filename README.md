@@ -1,1 +1,3 @@
 # simple-ide
+
+![](screenshot.png)
